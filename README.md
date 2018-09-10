@@ -1,1 +1,1 @@
-# bifrost-detached-sigs
+# mbpos-detached-sigs
